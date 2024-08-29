@@ -1,1 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
 
+.navbar {
+    background-color: #96BE8C; /* Background color of the nav bar */
+    display: flex;
+    justify-content: center;
+    padding: 1rem;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.navbar a {
+    color: #fff;
+    text-decoration: none;
+    padding: 0.5rem 1rem;
+    font-size: 1rem;
+    font-weight: bold;
+    border-radius: 4px;
+    transition: background-color 0.3s;
+}
+
+.navbar a:hover {
+    background-color: #ACECA1; /* Hover color */
+}
+
+.navbar a.active {
+    background-color: #C9F2C7; /* Active tab color */
+}
+
+.content {
+    padding: 2rem;
+}
