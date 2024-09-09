@@ -1,0 +1,14 @@
+Tutorials & Videos I've completed: 
+https://youtu.be/iJ_B_5W-pDA?feature=shared 
+  Gave me a rundown of what I need to do and install in order to get my functionality going. 
+https://youtu.be/UQamG425RD0?feature=shared
+  Was a little more confusing, and I felt kinda lost after I watched this one--made me learn a lot more terms and concepts I needed to know to harness the OpenAI API though!
+
+What to watch in the future: 
+https://youtu.be/NiQ_9xwS4v8?feature=shared 
+  Seems suepr i nformative. 
+
+Key takeaways and challenges faced.
+  Biggest challenge I'm facing is figuring out what platform I will use and how to make it work practically, considering the issues w my school chromebook and stuff.
+  My goial for this week and these next few days it to definitely get that sorted out!
+    
