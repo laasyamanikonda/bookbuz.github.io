@@ -3,12 +3,13 @@ https://youtu.be/iJ_B_5W-pDA?feature=shared
   Gave me a rundown of what I need to do and install in order to get my functionality going. 
 https://youtu.be/UQamG425RD0?feature=shared
   Was a little more confusing, and I felt kinda lost after I watched this one--made me learn a lot more terms and concepts I needed to know to harness the OpenAI API though!
+https://youtu.be/NiQ_9xwS4v8?feature=shared 
+  Taught me how to specifically use the API to cater to my needs and led me to make a general plan of how I will implement these features.
 
 What to watch in the future: 
-https://youtu.be/NiQ_9xwS4v8?feature=shared 
-  Seems suepr i nformative. 
+https://youtu.be/w3vs4a03y3I?feature=shared
+  Seems super informative, especially for my specific needs and project I will be creating. 
 
 Key takeaways and challenges faced.
-  Biggest challenge I'm facing is figuring out what platform I will use and how to make it work practically, considering the issues w my school chromebook and stuff.
-  My goial for this week and these next few days it to definitely get that sorted out!
+  Biggest challenge I'm facing is getting my initial project set up on a backend level, as I think I have my frontend relatively figured out. 
     
