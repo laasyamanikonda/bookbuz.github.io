@@ -13,6 +13,13 @@ https://www.youtube.com/watch?v=lI1ae4REbFM
 https://www.youtube.com/watch?v=EerdGm-ehJQ
   These two vids I'm watching as needed and skipping to the different skills I'm trying to learn. My goal is to learn JavaScript proficiently by the end of this project.
 
+What I plan to watch in the future:
+https://www.youtube.com/watch?v=3VSpVO6uvjI
+  This video is clearly beneficial to what I'm doing and seems beneficial and short.
+https://www.youtube.com/watch?v=AuxSJiv4NZU
+  This video seems applicable to what I am doing and probably geared towards beginners. 
+I plan to also use ChatGPT to help me explore what I could do for different features and brainstorm for things specifically catered to my project.
+
 Key takeaways and challenges faced.
   Biggest challenge I'm facing is getting my initial project set up on a backend level, as I think I have my frontend relatively figured out. Also, I don't know what different features to incorporate. 
     
