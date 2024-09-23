@@ -5,11 +5,14 @@ https://youtu.be/UQamG425RD0?feature=shared
   Was a little more confusing, and I felt kinda lost after I watched this one--made me learn a lot more terms and concepts I needed to know to harness the OpenAI API though!
 https://youtu.be/NiQ_9xwS4v8?feature=shared 
   Taught me how to specifically use the API to cater to my needs and led me to make a general plan of how I will implement these features.
-
-What to watch in the future: 
 https://youtu.be/w3vs4a03y3I?feature=shared
-  Seems super informative, especially for my specific needs and project I will be creating. 
+  Was super informative, especially for my specific needs and project. 
+
+Watching currently / in the process: 
+https://www.youtube.com/watch?v=lI1ae4REbFM
+https://www.youtube.com/watch?v=EerdGm-ehJQ
+  These two vids I'm watching as needed and skipping to the different skills I'm trying to learn. My goal is to learn JavaScript proficiently by the end of this project.
 
 Key takeaways and challenges faced.
-  Biggest challenge I'm facing is getting my initial project set up on a backend level, as I think I have my frontend relatively figured out. 
+  Biggest challenge I'm facing is getting my initial project set up on a backend level, as I think I have my frontend relatively figured out. Also, I don't know what different features to incorporate. 
     
