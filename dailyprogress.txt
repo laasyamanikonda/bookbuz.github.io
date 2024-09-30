@@ -1,0 +1,17 @@
+monday:
+- applied mentor guidance and watched freeCodeCamp videos + reviewed openAI API docs
+  - also joined more competitions - app/web development in order to build more personal projects (as recommended by Srikar)
+
+tuesday:
+- tried to use school macs to apply learning knowledge, but there were too many errors
+  - troubleshot these errors and tried to set up project--didn't work so decided to do it on personal laptop :(
+
+wednesday:
+- updated HTML code to unify theme
+- change theme color(s) bc they were ugly
+- 
+
+thursday n friday: 
+i was doing GWC and cs club stuff...sorry :(
+
+sunday (make-up for thursday and friday)
